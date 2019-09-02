@@ -1,0 +1,14 @@
+E:\Wrk\Practice 2019\Practice 2019\bin\Release\Practice2.exe.config
+E:\Wrk\Practice 2019\Practice 2019\bin\Release\Practice2.exe
+E:\Wrk\Practice 2019\Practice 2019\bin\Release\Practice2.pdb
+E:\Wrk\Practice 2019\Practice 2019\bin\Release\System.ValueTuple.dll
+E:\Wrk\Practice 2019\Practice 2019\bin\Release\System.ValueTuple.xml
+E:\Wrk\Practice 2019\Practice 2019\obj\Release\Practice 2019.csprojResolveAssemblyReference.cache
+E:\Wrk\Practice 2019\Practice 2019\obj\Release\Practice 2019.csproj.ResolveComReference.cache
+E:\Wrk\Practice 2019\Practice 2019\obj\Release\Practice2.Form1.resources
+E:\Wrk\Practice 2019\Practice 2019\obj\Release\Practice2.Form2.resources
+E:\Wrk\Practice 2019\Practice 2019\obj\Release\Practice2.Properties.Resources.resources
+E:\Wrk\Practice 2019\Practice 2019\obj\Release\Practice 2019.csproj.GenerateResource.Cache
+E:\Wrk\Practice 2019\Practice 2019\obj\Release\Practice 2019.csproj.CoreCompileInputs.cache
+E:\Wrk\Practice 2019\Practice 2019\obj\Release\Practice2.exe
+E:\Wrk\Practice 2019\Practice 2019\obj\Release\Practice2.pdb
